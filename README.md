@@ -1,2 +1,2 @@
-# Silus-type
-Using Silus-type to display Silus Gaming World on screen.
+# Silusgw-type
+Using Silugws-type to display Silus Gaming World on screen.
