@@ -1,3 +1,4 @@
+/* ./js/scripts.js of SilusGW-Type for SilusGW-type.bauska.org */
 var TxtRotate = function(el, toRotate, period) {
   this.toRotate = toRotate;
   this.el = el;
